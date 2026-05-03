@@ -1,2 +1,32 @@
-# MV-TOOLS-
- Nuke's regular write node does most of what you would expect from a Write node, but I was wondering how to make this more efficient? How to create a folder structure for professional functions and projects much faster? And completely automatically so you don't have to do everything yourself? Let me introduce MV_Tools!
+# MV Tools – Nuke Pipeline System
+
+MV Tools is a lightweight pipeline system for Nuke designed to bring production-level structure into rendering workflows.
+
+## Features
+
+* Automatic naming system
+* Version control (v001, v002...)
+* Folder routing (publish system)
+* ACES-ready rendering
+* Validation system (prevents bad renders)
+* Project builder (auto folder structure)
+
+## Tools Included
+
+* MV Project Builder
+* MV WritePro Node
+* Version Loader
+
+## Why This Exists
+
+Nuke’s Write node works—but managing renders, naming, and folders manually becomes messy fast.
+
+MV Tools solves that by turning rendering into a structured pipeline process.
+
+## Installation
+
+See `install.txt`
+
+## Status
+
+Active development – expanding into full pipeline toolkit.
